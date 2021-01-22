@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "UmuNero.json",
+    "Megumine.json"
+  ],
+  "homeserver_url": "https://ma.raimu.moe"
+}
